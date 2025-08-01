@@ -34,8 +34,8 @@ Use your 3D printer with the following settings or use the sliced download files
 - **Infill:** 25% - 30%  
 - **Layer height:** 0.2 mm  
 - **Supports:** Yes (grid recommended)  
-- **Filament:** PLA/PLA+ or PETG  
-- **Estimated print time:** ~2 hours  
+- **Filament:** PLA/PLA+ or PETG (I used PLA+ from Elegoo)
+- **Estimated print time:** ~3.5 hours  
 
 ### 3. Flash the Firmware
 
@@ -58,9 +58,12 @@ Use your 3D printer with the following settings or use the sliced download files
 
 ## App & Links
 
-- Android APK: [Download the SpinDuel App](https://example.com/spinduel.apk)  
+- Android APK: [Download the SpinDuel App](https://example.com/spinduel.apk)
+- Apple IOS: [Download the SpinDuel App](https://example.com/spinduel.apk)
 - GitHub Repository: [View Source Code](https://github.com/SmonSE/SpinDuelApp)
-
+- Xiao nRf52840 Sense: [Xiao nRf52840 Sense](https://www.seeedstudio.com/Seeed-XIAO-BLE-Sense-nRF52840-p-5253.html)
+- Screws M2x8mm: [Amazon Screws](https://www.amazon.de/dp/B012THI93G?ref=cm_sw_r_cso_cp_apin_dp_YSDDT776W2MJ7Y2KDNH1&ref_=cm_sw_r_cso_cp_apin_dp_YSDDT776W2MJ7Y2KDNH1&social_share=cm_sw_r_cso_cp_apin_dp_YSDDT776W2MJ7Y2KDNH1&th=1)
+- LiPo 200mAh battery: [LiPo Battery](https://www.amazon.de/dp/B0CSS49XFG?ref=cm_sw_r_cso_cp_apin_dp_PTYF9ETNQ7S0J1P7GSTV&ref_=cm_sw_r_cso_cp_apin_dp_PTYF9ETNQ7S0J1P7GSTV&social_share=cm_sw_r_cso_cp_apin_dp_PTYF9ETNQ7S0J1P7GSTV)
 ---
 
 ## About SpinDuel
