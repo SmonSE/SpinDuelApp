@@ -8,6 +8,8 @@ SpinDuel — The Ultimate Spin Challenge! Compete with friends to see who spins 
 
 Welcome to the SpinDuel project! This guide will walk you through building your own DIY spinner top for use with the SpinDuel app.
 
+<img src="images/spinner_rbrw.png" alt="Example Image" width="300"/> 
+
 ## What You’ll Need
 
 - 1x Seeed XIAO nRF52840 Sense  
@@ -34,8 +36,6 @@ Use your 3D printer with the following settings or use the sliced download files
 - **Supports:** Yes (grid recommended)  
 - **Filament:** PLA/PLA+ or PETG  
 - **Estimated print time:** ~2 hours  
-
-<img src="images/spinner_rbrw.png" alt="Example Image" width="300"/> 
 
 ### 3. Flash the Firmware
 
