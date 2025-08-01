@@ -19,8 +19,8 @@ Welcome to the SpinDuel project! This guide will walk you through building your 
 
 ### 1. Download Required Files
 
-- UF2 file: [Download firmware](https://github.com/SmonSE/SpinDuelApp/tree/main/firmware)  
-- STL files: [Download 3D models](https://www.printables.com/...)  
+- Spinner Firmware uf2-file: [Download firmware](https://github.com/SmonSE/SpinDuelApp/tree/main/firmware)  
+- 3D Printer STL files: [Download 3D models](https://www.printables.com/...)  
 
 ### 2. 3D Print the Parts
 
