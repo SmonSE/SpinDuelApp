@@ -50,7 +50,9 @@ Use your 3D printer with the following settings or use the sliced download files
 - Solder the LiPo battery to the `+` and `-` pins on the back of the board.  
 - Double-check the **polarity** – incorrect wiring may damage the device.  
 - Use a 3.7V LiPo battery with at least 200mAh capacity.  
-- Mount the board and components using the printed parts and screws.  
+- Mount the board and components using the printed parts and screws.
+
+<img src="images/assembly overview.png" alt="Example Image" width="300"/> 
 
 ---
 
