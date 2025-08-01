@@ -1,4 +1,6 @@
 # SpinDuelApp
+
+![Parts Overview](images/appIcon.png)
 SpinDuel — The Ultimate Spin Challenge! Compete with friends to see who spins the longest! SpinDuel tracks your spin time with precision sensors and shares your results live via Bluetooth. Challenge yourself — Beat the record — Spin smarter!
 
 # Build Instructions
@@ -13,7 +15,7 @@ Welcome to the SpinDuel project! This guide will walk you through building your 
 - 1x Steel Ball 6mm  
 - 3D printed parts (PLA+ or PETG)  
 
-![Parts Overview](assets/images/spinner_parts.png)
+![Parts Overview](images/spinner_parts.png)
 
 ## Step-by-Step Instructions
 
@@ -32,7 +34,7 @@ Use your 3D printer with the following settings or use the sliced download files
 - **Filament:** PLA/PLA+ or PETG  
 - **Estimated print time:** ~2 hours  
 
-![3D Printed Top](assets/images/spinner_rbrw.png)
+![3D Printed Top](images/spinner_rbrw.png)
 
 ### 3. Flash the Firmware
 
