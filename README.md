@@ -1,6 +1,6 @@
 # SpinDuelApp
 
-![Parts Overview](images/appIcon.png)
+<img src="images/appIcon.png" alt="Example Image" width="30"/>
 SpinDuel — The Ultimate Spin Challenge! Compete with friends to see who spins the longest! SpinDuel tracks your spin time with precision sensors and shares your results live via Bluetooth. Challenge yourself — Beat the record — Spin smarter!
 
 # Build Instructions
