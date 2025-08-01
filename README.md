@@ -57,7 +57,7 @@ Use your 3D printer with the following settings or use the sliced download files
 ## App & Links
 
 - Android APK: [Download the SpinDuel App](https://example.com/spinduel.apk)  
-- GitHub Repository: [View Source Code](https://github.com/dein-repo/spinduel)
+- GitHub Repository: [View Source Code](https://github.com/SmonSE/SpinDuelApp)
 
 ---
 
