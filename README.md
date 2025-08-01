@@ -40,9 +40,10 @@ Use your 3D printer with the following settings or use the sliced download files
 ### 3. Flash the Firmware
 
 1. Connect the XIAO nRF52840 Sense to your computer.  
-2. Press and hold the **boot button** on the board.  
+2. Double-press the small **rst button** quickly on the board.  
 3. A USB drive will appear on your computer.  
-4. Copy the `firmware.uf2` file to the USB drive.  
+4. Copy the `firmware.uf2` file to the USB drive.
+5. Press the **rst button** again.
 
 ### 4. Assemble the Hardware
 
