@@ -21,11 +21,11 @@ Welcome to the SpinDuel project! This guide will walk you through building your 
 
 ### 1. Download Required Files
 - Spinner Firmware uf2-file: [Download firmware](https://github.com/SmonSE/SpinDuelApp/tree/main/firmware)  
-- 3D Printer STL files: [Download 3D models from Thingiverse](https://www.thingiverse.com/thing:7108494)
-- 3D Printer STL files: [Download 3D models from Printables](https://www.printables.com/model/1374079-spinduel-diy-spinning-top-with-ios-android-app)
+- 3D Printer STL files Pro: [Download 3D models from Thingiverse](https://www.thingiverse.com/thing:7108494)
+- 3D Printer STL files Pro: [Download 3D models from Printables](https://www.printables.com/model/1374079-spinduel-diy-spinning-top-with-ios-android-app)
 
-- 3D Printer STL files: [Download 3D models from Thingiverse](https://www.thingiverse.com/thing:7112117)
-- 3D Printer STL files: [Download 3D models from Printables](https://www.printables.com/model/1377999-spinduel-diy-spinning-top-beginner-with-ios-androi)
+- 3D Printer STL files Beginner: [Download 3D models from Thingiverse](https://www.thingiverse.com/thing:7112117)
+- 3D Printer STL files Beginner: [Download 3D models from Printables](https://www.printables.com/model/1377999-spinduel-diy-spinning-top-beginner-with-ios-androi)
 
 ### 2. 3D Print the Parts
 
