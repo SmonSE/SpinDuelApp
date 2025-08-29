@@ -37,8 +37,13 @@ Use your 3D printer with the following settings or use the sliced download files
 1. Connect the XIAO nRF52840 Sense to your computer.  
 2. Double-press the small **rst button** quickly on the board.  
 3. A USB drive will appear on your computer.  
-4. Copy the `firmware.uf2` file to the USB drive.
-5. Press the **rst button** again.
+4. Copy the `flash.uf2` file to the USB drive.
+5. The XIAO SENSE will reset **automatically**.
+
+If you receive any error message (often with Macbook) you need to copy flash.uf2 via terminal.
+1. ls /Volumes
+2. dot_clean /Volumes/XIAO-SENSE/
+3. cp flash.uf2 "/Volumes/XIAO-SENSE/"
 
 ### 4. Assemble the Hardware
 - Solder the LiPo battery to the `+` and `-` pins on the back of the board.  
