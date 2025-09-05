@@ -59,7 +59,7 @@ With windows pc I was not able to see such issues but in case.
 - Double-check the **polarity** – incorrect wiring may damage the device.  
 - Use a 3.7V LiPo battery with at least 200mAh capacity.  
 - Mount the board and components using the printed parts and screws.
-- Heat the steel ball with a lighter to avoid 3d print bottom whole is cracking.
+- **Heat the steel ball with a lighter to avoid 3d print bottom whole is cracking.**
 
 <img src="images/assembly overview.png" alt="Example Image" width="300"/> 
 
