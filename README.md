@@ -48,11 +48,18 @@ If you receive any error message (often with Macbook) you need to copy flash.uf2
 2. dot_clean /Volumes/XIAO-SENSE/
 3. cp flash.uf2 "/Volumes/XIAO-SENSE/"
 
+With windows pc I was not able to see such issues but in case.
+1. open cmd
+2. navigate to the downloaded file (C:\Users\Simon\Downloads)
+3. check which drive is you connected XIAO-SENSE E:\
+4. copy flash.uf2 E:\
+
 ### 4. Assemble the Hardware
 - Solder the LiPo battery to the `+` and `-` pins on the back of the board.  
 - Double-check the **polarity** – incorrect wiring may damage the device.  
 - Use a 3.7V LiPo battery with at least 200mAh capacity.  
 - Mount the board and components using the printed parts and screws.
+- Heat the steel ball with a lighter to avoid 3d print bottom whole is cracking.
 
 <img src="images/assembly overview.png" alt="Example Image" width="300"/> 
 
