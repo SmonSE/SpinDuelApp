@@ -46,15 +46,15 @@ If you receive any error message (often with Macbook) you need to copy flash.uf2
 3. cp flash.uf2 "/Volumes/XIAO-SENSE/"
 
 **Example (ignore the errors):**
-  simoneisele@Mac Desktop % **ls /Volumes**
-    Macintosh HD	XIAO-SENSE
-  simoneisele@Mac Desktop % **dot_clean /Volumes/XIAO-SENSE/**
-  simoneisele@Mac Desktop %
-  simoneisele@Mac Desktop % **cp flash.uf2 /Volumes/XIAO-SENSE**
-    cp: /Volumes/XIAO-SENSE/flash.uf2: fcopyfile failed: Input/output error
-    cp: /Volumes/XIAO-SENSE/flash.uf2: fchmod failed: Device not configured
-    cp: flash.uf2: could not copy extended attributes to /Volumes/XIAO-SENSE/flash.uf2: Device not configured
-    cp: /Volumes/XIAO-SENSE/flash.uf2: Device not configured
+  simoneisele@Mac Desktop % **ls /Volumes**  
+    Macintosh HD	XIAO-SENSE  
+  simoneisele@Mac Desktop % **dot_clean /Volumes/XIAO-SENSE/**  
+  simoneisele@Mac Desktop %  
+  simoneisele@Mac Desktop % **cp flash.uf2 /Volumes/XIAO-SENSE**  
+    cp: /Volumes/XIAO-SENSE/flash.uf2: fcopyfile failed: Input/output error  
+    cp: /Volumes/XIAO-SENSE/flash.uf2: fchmod failed: Device not configured  
+    cp: flash.uf2: could not copy extended attributes to /Volumes/XIAO-SENSE/flash.uf2: Device not configured  
+    cp: /Volumes/XIAO-SENSE/flash.uf2: Device not configured  
 
 **If the Xiao is doing reset than it should work!** After reconnect of the ciao the XIAO-SENSE should not more appear as a volume.
 The bootloader should be deactivated
